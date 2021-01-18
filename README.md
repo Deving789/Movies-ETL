@@ -16,4 +16,8 @@ Using ETL to clean data files, parse the data that we extracted to make it look 
 7. set the three variables in Step 6 equal to the function created in Step 1.
 8. set the DataFrames from the return statement equal to the file names in Step 6. In this step, you are reassigning the variables created in Step 6 to the variables in the return statement.
 
-Now to view that all our dataframes are correct:
+Now to view that all our dataframes are correct use the .head() method to make sure your dataframes look correct(example below):
+
+![data-08-first-five-rows-of-kaggle-metadata-DataFrame](https://user-images.githubusercontent.com/67278193/104871358-daceb880-5918-11eb-88dd-70a58f5d040f.png)
+
+## Step 2:
